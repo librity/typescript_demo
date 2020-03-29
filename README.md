@@ -17,6 +17,7 @@
 - https://wanago.io/2018/12/03/typescript-express-tutorial-routing-controllers-middleware/
 - https://medium.com/better-programming/create-an-express-server-using-typescript-dec8a51e7f8d
 - https://medium.com/javascript-in-plain-english/typescript-with-node-and-express-js-why-when-and-how-eb6bc73edd5d
+- https://itnext.io/production-ready-node-js-rest-apis-setup-using-typescript-postgresql-and-redis-a9525871407
 
 ### Videos
 
