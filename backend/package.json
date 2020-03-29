@@ -5,15 +5,18 @@
   "author": "Luis Geniole <luis.geniole@gmail.com>",
   "license": "MIT",
   "scripts": {
+    "tsc": "tsc",
     "dev": "ts-node-dev --respawn --transpileOnly src/index.ts"
   },
   "devDependencies": {
+    "@types/cors": "^2.8.6",
     "ts-node-dev": "^1.0.0-pre.44",
     "typescript": "^3.8.3"
   },
   "dependencies": {
     "@types/express": "^4.17.3",
     "@types/node": "^13.9.5",
+    "cors": "^2.8.5",
     "express": "^4.17.1",
     "pg": "^7.18.2",
     "reflect-metadata": "^0.1.13",
